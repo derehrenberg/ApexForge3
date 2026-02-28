@@ -1,6 +1,6 @@
-/* ApexForge 3 — Performance + Progress + Makro Tracking (offline PWA) */
+/* Grimbrock — Performance + Progress + Makro Tracking (offline PWA) */
 
-const STORE_KEY = "apexforge3_v1";
+const STORE_KEY = "grimbrock_v1";
 
 const $ = (id) => document.getElementById(id);
 
